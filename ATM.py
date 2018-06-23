@@ -1,8 +1,8 @@
 '''
 Program:               ATM Script
-Author:                Joel Ruiz
+Author:                
 Class:                 IT-140-T5093 Introduction to scripting 18EW5
-Instructor             Phillip Davis, Lead Instructor (Ed.D.)
+Instructor             
 Date:                  10 Jun 2018
 Description:        A program that by collecting customers data from the INPUT of currency. 
                     the program OUTPUTS the total of weather a Deposit has been made or withdrawn.
